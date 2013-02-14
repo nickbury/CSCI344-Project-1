@@ -12,9 +12,31 @@
 /* -----------------------------------------
    Shared Styles
 ----------------------------------------- */
+.logo {
+  padding: 0 0 0 50px;
+}
 
+.nav-links {
+  font-family: 'Petit Formal Script', cursive;
+  padding: 90px 0 0 0;
+}
 
+.titleDesc {
+  font-family: 'Advent Pro', sans-serif;
+}
 
+.contentDesc {
+  font-family: 'Lusitana', serif;
+}
+
+.copyright {
+  font-family: 'Petit Formal Script', cursive;
+  font-size: 12px;
+}
+
+.footer-link {
+  font-family: 'Petit Formal Script', cursive;
+}
 /* -----------------------------------------
    Page Name 1
 ----------------------------------------- */
