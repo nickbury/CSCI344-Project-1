@@ -45,3 +45,10 @@ hr {
 .icon {
   padding: 0 10px 20px 10px;
 }
+
+/* About Page Specific */
+
+.about-header {
+  font-family: 'Advent Pro', sans-serif;
+  font-size: 44px;
+}
