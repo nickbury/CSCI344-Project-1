@@ -6,3 +6,42 @@
 .logo {
   padding: 10px 0 20px 20px;
 }
+
+hr { 
+  border: solid #ddd; 
+  border-width: 1px 0 0; 
+  clear: both; 
+  margin: 22px 0 21px; 
+  height: 0; 
+}
+
+.titleDesc {
+  font-family: 'Advent Pro', sans-serif;
+}
+
+.contentDesc {
+  font-family: 'Lusitana', serif;
+}
+
+.ios {
+  padding: 0 0 0 50px;
+}
+
+.android {
+  padding: 0 0 0 50px;
+}
+
+.copyright {
+  font-family: 'Petit Formal Script', cursive;
+  font-size: 12px;
+}
+
+.footer-link {
+  font-family: 'Petit Formal Script', cursive;
+  font-size: 14px;
+  padding: 0 0 0 20px;
+}
+
+.icon {
+  padding: 0 10px 20px 10px;
+}
